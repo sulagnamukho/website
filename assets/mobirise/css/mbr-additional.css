@@ -1043,7 +1043,7 @@ a {
   }
 }
 .cid-tiBHztGgzj {
-  background-image: url("../../../assets/images/hero.png");
+  background-image: url("../../../assets/images/eliott-reyna-jcepn62owl4-unsplash.jpg");
 }
 .cid-tiBHztGgzj .mbr-fallback-image.disabled {
   display: none;
@@ -2274,4 +2274,137 @@ a {
   padding-bottom: 30px;
   background-color: #232323;
   overflow: hidden;
+}
+.cid-tiK4zgjvnL {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tiK4zgjvnL img,
+.cid-tiK4zgjvnL .item-img {
+  width: 100%;
+}
+.cid-tiK4zgjvnL .item:focus,
+.cid-tiK4zgjvnL span:focus {
+  outline: none;
+}
+.cid-tiK4zgjvnL .item-wrapper {
+  position: relative;
+}
+.cid-tiK4zgjvnL .slide-content {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-tiK4zgjvnL .slide-content .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tiK4zgjvnL .slide-content .item-content {
+    padding: 1rem;
+  }
+}
+.cid-tiK4zgjvnL .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-tiK4zgjvnL .mbr-section-title {
+  color: #232323;
+}
+.cid-tiK4zgjvnL .mbr-text,
+.cid-tiK4zgjvnL .mbr-section-btn {
+  text-align: left;
+}
+.cid-tiK4zgjvnL .item-title {
+  text-align: left;
+}
+.cid-tiK4zgjvnL .item-subtitle {
+  text-align: left;
+}
+.cid-tiK4zgjvnL .embla__slide {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-width: 410px;
+  max-width: 410px;
+}
+@media (max-width: 768px) {
+  .cid-tiK4zgjvnL .embla__slide {
+    min-width: 70%;
+    max-width: initial;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
+}
+.cid-tiK4zgjvnL .embla__button--next,
+.cid-tiK4zgjvnL .embla__button--prev {
+  display: flex;
+}
+.cid-tiK4zgjvnL .embla__button {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .cid-tiK4zgjvnL .embla__button {
+    display: none;
+  }
+}
+.cid-tiK4zgjvnL .embla__button:disabled {
+  cursor: default;
+  display: none;
+}
+.cid-tiK4zgjvnL .embla__button:hover {
+  background: #000;
+  color: rgba(255, 255, 255, 0.5);
+}
+.cid-tiK4zgjvnL .embla__button.embla__button--prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-tiK4zgjvnL .embla__button.embla__button--next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-tiK4zgjvnL .embla__button {
+    top: auto;
+  }
+}
+.cid-tiK4zgjvnL .embla {
+  position: relative;
+  width: 100%;
+}
+.cid-tiK4zgjvnL .embla__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+.cid-tiK4zgjvnL .embla__viewport.is-draggable {
+  cursor: grab;
+}
+.cid-tiK4zgjvnL .embla__viewport.is-dragging {
+  cursor: grabbing;
+}
+.cid-tiK4zgjvnL .embla__container {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
 }
